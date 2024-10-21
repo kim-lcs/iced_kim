@@ -1,0 +1,11 @@
+[package]
+name = "iced_kim_macro"
+version = "0.13.0"
+edition = "2021"
+
+[dependencies]
+syn = "2.0.61"
+quote = "1.0"
+
+[lib]
+proc-macro = true
