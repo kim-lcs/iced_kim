@@ -17,4 +17,4 @@ message-box = ["multi-windows"]
 
 
 [workspace]
-members = ["macro"]
+members = [ "examples/multi_windows","macro"]
